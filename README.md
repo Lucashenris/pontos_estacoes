@@ -49,6 +49,6 @@ plt.show()
 
 
     
-![png](Plotar_pontos_de_estações_files/Plotar_pontos_de_estações_files.png)
+![png](postos_estacoes.png)
     
 
